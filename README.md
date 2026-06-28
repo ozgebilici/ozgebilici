@@ -195,7 +195,7 @@ Python • Flask • HTML • CSS • JavaScript
 # 📫 Contact
 
 📧 Email: [ozgebilici40@gmail.com](mailto:ozgebilici40@gmail.com)
-💼 LinkedIn: Özge Bilici
+💼 LinkedIn: [Özge BİLİCİ](https://www.linkedin.com/in/%C3%B6zge-bilici-6a7870253/)
 
 ---
 
