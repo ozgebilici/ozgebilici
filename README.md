@@ -20,7 +20,7 @@
 
 📚 Currently focusing on **Data Engineering, Cloud Systems, and Scalable Backend Architectures**
 
-🎯 My goal is to become a professional **Data Engineer** and work on large-scale distributed systems
+🎯 My goal is to become a professional **Data Engineer** working on large-scale distributed systems
 
 ---
 
@@ -29,12 +29,7 @@
 ## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cs" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,flutter" />
 </p>
 
 ---
@@ -42,8 +37,7 @@
 ## 🧠 Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet" />
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=dotnet,flask" />
 </p>
 
 ---
@@ -51,12 +45,7 @@
 ## 🗄 Databases & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=postgresql" />
-  
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,git,docker" />
 </p>
 
 ---
@@ -64,8 +53,7 @@
 ## 🤖 AI / Data / Computer Vision
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
 ---
@@ -74,126 +62,121 @@
 
 ---
 
-##🌍 Global Hunger Early Warning System (TÜBİTAK 2209-A)
+## 🌍 Global Hunger Early Warning System (TÜBİTAK 2209-A)
 
 AI-powered hybrid early warning system designed to predict global hunger risk up to 6 months in advance by integrating climate, agriculture, economic, and socio-political data into a unified model.
 
 🏆 TÜBİTAK 2209-A Research Project
 🎓 Software Engineering Graduation Project (2026)
 
-🎯 Problem
+### 🎯 Problem
 
-Most existing early warning systems:
+* Reliance on climate-only data
+* No economic/political integration
+* Lack of uncertainty estimation
+* Limited interpretability
 
-Rely mainly on climate data
-Ignore economic and political factors
-Lack uncertainty estimation
-Provide limited interpretability for decision-making
-💡 Solution
+### 💡 Solution
 
-This system introduces a hybrid AI approach that:
+* 🌐 Multi-domain data fusion (climate + economy + agriculture + politics)
+* 🤖 LSTM + TCN hybrid deep learning
+* 📊 190+ engineered features
+* 📉 Monte Carlo Dropout uncertainty estimation
+* 🧠 SHAP explainability layer
 
-🌐 Combines multi-domain datasets (climate, economy, agriculture, politics)
-🤖 Uses LSTM + TCN hybrid deep learning architecture
-📊 Applies 190+ engineered time-series features
-📉 Generates probabilistic predictions using Monte Carlo Dropout
-🧠 Provides explainability via SHAP analysis
-🏗 System Architecture
+### 📊 Results
 
-The system follows a modular data pipeline:
+* 📈 F1 Score: 0.90 (Ensemble model)
+* 📉 ECE: 0.042
+* 🔼 +24% performance improvement
+* 🌍 6-month predictive capability
 
-Data Collection → Feature Engineering → Model Training → Uncertainty & Explainability → Visualization Dashboard
-
-Orchestrated with Apache Airflow
-Model served via API layer
-Results visualized using interactive dashboard
-📊 Results
-📈 F1 Score: 0.90 (Ensemble model)
-📉 Expected Calibration Error (ECE): 0.042
-🔼 +24% performance improvement over baseline models
-🌍 Reliable 6-month ahead forecasting capability
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Python • TensorFlow • PyTorch • XGBoost • SHAP • Airflow • PostgreSQL • Docker • Streamlit
 
-⚔️ BOZGUN — Real-Time Autonomous Tracking System
+---
 
-An embedded computer vision system that detects objects in real time and controls a servo-driven laser mechanism for automated tracking and targeting simulation.
+## ⚔️ BOZGUN — Real-Time Autonomous Tracking System
 
-🏆 Selected & Presented at Aksaray University R&D Project Fair
+Embedded computer vision system that detects real-time objects and controls a servo-driven laser mechanism for automated tracking.
 
-🔧 Key Features
-🎯 Real-time object detection using computer vision
-⚙️ Servo motor control system
-🔴 Automated laser tracking mechanism
-🧠 Vision-based decision loop
-🔌 Arduino + Python hardware integration
-🛠 Tech Stack
+🏆 Aksaray University R&D Project Fair — Selected & Presented
+
+### 🔧 Key Features
+
+* 🎯 Real-time object detection
+* ⚙️ Servo motor control system
+* 🔴 Laser tracking mechanism
+* 🧠 Vision-based decision loop
+* 🔌 Arduino + Python integration
+
+### 🛠 Tech Stack
 
 Python • OpenCV • Arduino • Computer Vision
-## 🌿 Digital Purification Platform (Dijital Arınma)
-
-A privacy-focused web platform that analyzes users' email metadata (subject & title fields only) via Google account integration.
-
-The system helps users:
-
-* Identify unused digital services
-* Detect connected applications
-* Submit KVKK-compliant data deletion requests
-* Manage digital footprint securely
-
-🔐 **Privacy First:** No email content or passwords are stored or accessed.
-
-**Stack:** Python • Flask • Google API • HTML • CSS • Security-first architecture
 
 ---
 
-## 🧠 Alzheimer Cognitive Training Platform
+## 🌿 DIGITAL PURIFICATION (Dijital Arınma)
 
-A web-based cognitive training system designed to support Alzheimer’s patients.
+Privacy-focused system that analyzes Google account metadata (subject & title only) to help users manage their digital footprint.
 
-**Features:**
+### 🔑 Features
 
-* Daily brain training games
-* Memory and logic exercises
-* Scoring and progress tracking system
-* Doctor & caregiver monitoring dashboard
-* Daily reminders and engagement system
+* Google OAuth integration
+* Email metadata analysis (no content access)
+* Unused service detection
+* KVKK-compliant deletion requests
+* Privacy-first architecture
 
-**Stack:** Python • Flask • HTML • CSS • JavaScript
+### 🛠 Tech Stack
+
+Python • Flask • Google API • HTML • CSS
 
 ---
 
-## 🏴‍☠️ Pirate Adventure Game
+## 🧠 ALZHEIMER COGNITIVE TRAINING PLATFORM
 
-A Unity-based 3D adventure game featuring exploration, puzzles, and mission-based gameplay.
+Web-based cognitive training system for Alzheimer’s patients with daily exercises and caregiver monitoring.
+
+### 🎯 Features
+
+* Daily cognitive games
+* Memory & logic exercises
+* Progress tracking system
+* Doctor/caregiver dashboard
+* Reminder system
+
+### 🛠 Tech Stack
+
+Python • Flask • HTML • CSS • JavaScript
 
 ---
 
 # 🏆 Achievements
 
-🏅 TÜBİTAK 2209-A Research Project Accepted
-
-🎓 Software Engineering Graduate
-
-🔬 Developed AI, Embedded Systems, and Web Platforms
-
-⚙ Experience in full-stack, backend, and hardware-integrated systems
+* 🏅 TÜBİTAK 2209-A Research Project Accepted
+* 🎓 Software Engineering Graduate
+* 🔬 AI, Embedded Systems & Web Development experience
+* ⚙ Full-stack & backend system development
 
 ---
 
 # 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ozgebilici&theme=tokyonight&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight" />
+</p>
 
-🌱 *Şu anda odaklandığım alanlar: Cloud Infrastructure (AWS/Azure) • Veri Pipeline'ları • Dağıtık Sistemler*
+---
 
 # 🎯 2026 Goals
 
 * Become a Data Engineer
 * Build scalable distributed systems
-* Master cloud infrastructure (Azure/AWS)
-* Work on large-scale data pipelines
+* Master cloud infrastructure (AWS/Azure)
+* Develop large-scale data pipelines
 * Contribute to open-source projects
 
 ---
@@ -212,8 +195,7 @@ A Unity-based 3D adventure game featuring exploration, puzzles, and mission-base
 # 📫 Contact
 
 📧 Email: [ozgebilici40@gmail.com](mailto:ozgebilici40@gmail.com)
-💼 LinkedIn: [Özge BİLİCİ](https://www.linkedin.com/in/%C3%B6zge-bilici-6a7870253/)
-
+💼 LinkedIn: Özge Bilici
 
 ---
 
