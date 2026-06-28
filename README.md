@@ -74,32 +74,36 @@
 
 ---
 
-## 🌍 Global Hunger Early Warning System (TÜBİTAK 2209-A)
+## 🌍 Global Hunger EWS
 
-AI-based predictive system designed to forecast global food insecurity using socioeconomic and statistical indicators.
+AI-powered early warning system that predicts global hunger risk up to 6 months in advance using multi-source global data (climate, economy, agriculture, socio-political).
 
-🏆 Accepted by TÜBİTAK 2209-A Research Projects Program
+🏆 TÜBİTAK 2209-A Research Project
+🎓 Software Engineering Graduation Project (2026)
 
-**Stack:** Python • Machine Learning • Flask • Data Analysis • PostgreSQL
+Highlights:
 
----
+Hybrid AI model (LSTM + TCN)
+190+ engineered features
+SHAP explainability + uncertainty estimation
+Multi-domain global data fusion
 
-## ⚔️ BOZGUN — Autonomous Laser Tracking System
+Tech: Python • TensorFlow • PyTorch • XGBoost • SHAP • Airflow • PostgreSQL • Docker
 
-A real-time embedded system that integrates **computer vision and hardware control**.
+⚔️ BOZGUN
 
-The system uses a camera feed to detect moving objects and controls **servo motors attached to a laser module** to track and “hit” targets in real time.
+Real-time embedded computer vision system that tracks moving objects and controls a servo-driven laser for automated targeting simulation.
 
-**Core Features:**
+🏆 Aksaray University R&D Fair – Presented Project
 
-* Real-time object detection via camera
-* Servo motor control system
-* Automated laser tracking mechanism
-* Embedded hardware + software integration
-* Physics-based targeting simulation
+Highlights:
 
-**Stack:** Python • OpenCV • Arduino • Servo Motors
+Real-time object detection
+Servo motor control system
+Computer vision pipeline
+Arduino + Python integration
 
+Tech: Python • OpenCV • Arduino
 ---
 
 ## 🌿 Digital Purification Platform (Dijital Arınma)
