@@ -189,7 +189,7 @@ A Unity-based 3D adventure game featuring exploration, puzzles, and mission-base
 # 📫 Contact
 
 📧 Email: [ozgebilici40@gmail.com](mailto:ozgebilici40@gmail.com)
-💼 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/%C3%B6zge-bilici-6a7870253/)
+💼 LinkedIn: [Özge BİLİCİ](https://www.linkedin.com/in/%C3%B6zge-bilici-6a7870253/)
 
 
 ---
