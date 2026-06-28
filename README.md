@@ -27,8 +27,8 @@
 # ⚙️ Tech Stack
 
 ## 💻 Programming Languages
-<div align="center">
-<p align="left">
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cs" />
 <img src="https://skillicons.dev/icons?i=js" />
@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
-</div>
+
 ---
 
 ## 🧠 Backend & Frameworks
@@ -49,7 +49,7 @@
 ---
 
 ## 🗄 Databases & Tools
-<div align="center">
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
@@ -58,16 +58,16 @@
 <img src="https://skillicons.dev/icons?i=postgresql" />
   
 </p>
-</div>
+
 ---
 
 ## 🤖 AI / Data / Computer Vision
-<div align="center">
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
-</div>
+
 ---
 
 # 🚀 Featured Projects
