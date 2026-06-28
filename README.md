@@ -155,15 +155,9 @@ A Unity-based 3D adventure game featuring exploration, puzzles, and mission-base
 
 # 📊 GitHub Stats
 
-<p align="center">
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ozgebilici&theme=tokyonight&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+🌱 *Şu anda odaklandığım alanlar: Cloud Infrastructure (AWS/Azure) • Veri Pipeline'ları • Dağıtık Sistemler*
 
 # 🎯 2026 Goals
 
