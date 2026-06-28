@@ -41,7 +41,7 @@
 
 ## 🧠 Backend & Frameworks
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet" />
 <img src="https://skillicons.dev/icons?i=flask" />
 </p>
@@ -50,7 +50,7 @@
 
 ## 🗄 Databases & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
 <img src="https://skillicons.dev/icons?i=git" />
@@ -63,7 +63,7 @@
 
 ## 🤖 AI / Data / Computer Vision
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
