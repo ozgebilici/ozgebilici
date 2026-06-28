@@ -27,7 +27,7 @@
 # ⚙️ Tech Stack
 
 ## 💻 Programming Languages
-
+<div align="center">
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=cs" />
@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=flutter" />
 </p>
-
+</div>
 ---
 
 ## 🧠 Backend & Frameworks
@@ -44,30 +44,30 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=dotnet" />
 <img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ---
 
 ## 🗄 Databases & Tools
-
+<div align="center">
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=postgresql" />
+  
 </p>
-
+</div>
 ---
 
 ## 🤖 AI / Data / Computer Vision
-
+<div align="center">
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
-
+</div>
 ---
 
 # 🚀 Featured Projects
@@ -80,7 +80,7 @@ AI-based predictive system designed to forecast global food insecurity using soc
 
 🏆 Accepted by TÜBİTAK 2209-A Research Projects Program
 
-**Stack:** Python • Machine Learning • Flask • Data Analysis • SQL
+**Stack:** Python • Machine Learning • Flask • Data Analysis • PostgreSQL
 
 ---
 
@@ -157,9 +157,9 @@ A Unity-based 3D adventure game featuring exploration, puzzles, and mission-base
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ozgebilici&theme=tokyonight&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -188,9 +188,9 @@ A Unity-based 3D adventure game featuring exploration, puzzles, and mission-base
 
 # 📫 Contact
 
-📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-💼 LinkedIn: yourlinkedin
-🌐 Portfolio: coming soon
+📧 Email: [ozgebilici40@gmail.com](mailto:ozgebilici40@gmail.com)
+💼 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/%C3%B6zge-bilici-6a7870253/)
+
 
 ---
 
