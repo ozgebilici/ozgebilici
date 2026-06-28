@@ -1,10 +1,10 @@
-# <div align="center">Hi there 👋 I'm Özge Bilici</div>
+# <div align="center">Hi 👋 I'm Özge Bilici</div>
 
 <div align="center">
 
-### 💻 Software Engineer | 📊 Aspiring Data Engineer | 🚀 Backend Developer
+### 💻 Software Engineer | 📊 Aspiring Data Engineer | 🔬 AI & Systems Developer
 
-*"Building scalable software solutions and continuously learning new technologies."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Data+Engineering+Enthusiast;AI+%26+Computer+Vision+Developer" />
 
 </div>
 
@@ -12,169 +12,192 @@
 
 # 👩‍💻 About Me
 
-🎓 Bachelor's Degree in **Software Engineering**
+🎓 Bachelor's Degree in Software Engineering
 
-💡 Passionate about **Backend Development**, **Data Engineering**, and **Machine Learning**
+💡 I specialize in building **data-driven systems, intelligent applications, and backend architectures**
 
-🚀 I enjoy developing scalable software solutions, working with databases, and building applications that solve real-world problems.
+🚀 I develop projects combining **AI, web technologies, embedded systems, and data processing**
 
-📚 Currently improving my skills in Data Engineering, Cloud Technologies, and Big Data tools while continuing to develop backend applications.
+📚 Currently focusing on **Data Engineering, Cloud Systems, and Scalable Backend Architectures**
 
-🎯 My career goal is to become a **Data Engineer** and contribute to building reliable and data-driven systems.
+🎯 My goal is to become a professional **Data Engineer** and work on large-scale distributed systems
 
 ---
 
-# 💼 Internship Experience
+# ⚙️ Tech Stack
 
-## Software Engineering Intern
+## 💻 Programming Languages
 
-During my internship, I participated in the development of an **E-Commerce Management System** using **ASP.NET Core MVC** architecture.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
 
-### Responsibilities
+---
 
-* Developed features using ASP.NET Core MVC
-* Implemented CRUD operations
-* Worked with Entity Framework Core
-* Designed SQL Server database structures
-* Built responsive user interfaces
-* Applied Layered Architecture principles
-* Used Git for version control
-* Collaborated in a software development team
+## 🧠 Backend & Frameworks
 
-This experience strengthened my understanding of enterprise application development and software architecture.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+---
+
+## 🗄 Databases & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+---
+
+## 🤖 AI / Data / Computer Vision
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌍 Global Hunger Early Warning System
+---
 
-Machine Learning-based early warning platform developed to predict global food insecurity using socioeconomic indicators.
+## 🌍 Global Hunger Early Warning System (TÜBİTAK 2209-A)
 
-🏆 **Accepted by TÜBİTAK 2209-A University Research Projects Support Program**
+AI-based predictive system designed to forecast global food insecurity using socioeconomic and statistical indicators.
 
-**Technologies**
+🏆 Accepted by TÜBİTAK 2209-A Research Projects Program
 
-Python • Machine Learning • Flask • SQL • Data Analysis
+**Stack:** Python • Machine Learning • Flask • Data Analysis • SQL
 
 ---
 
-## 🛒 E-Commerce Management System
+## ⚔️ BOZGUN — Autonomous Laser Tracking System
 
-Developed during my internship using **ASP.NET Core MVC**.
+A real-time embedded system that integrates **computer vision and hardware control**.
 
-Features include product management, authentication, category management, database operations, and responsive web design.
+The system uses a camera feed to detect moving objects and controls **servo motors attached to a laser module** to track and “hit” targets in real time.
 
-**Technologies**
+**Core Features:**
 
-ASP.NET Core MVC • Entity Framework Core • SQL Server • HTML • CSS • JavaScript • Bootstrap
+* Real-time object detection via camera
+* Servo motor control system
+* Automated laser tracking mechanism
+* Embedded hardware + software integration
+* Physics-based targeting simulation
+
+**Stack:** Python • OpenCV • Arduino • Servo Motors
 
 ---
 
-## ⚔️ BOZGUN
+## 🌿 Digital Purification Platform (Dijital Arınma)
 
-A software project developed to solve a real-world problem using modern software engineering principles, focusing on scalability, usability, and maintainability.
+A privacy-focused web platform that analyzes users' email metadata (subject & title fields only) via Google account integration.
+
+The system helps users:
+
+* Identify unused digital services
+* Detect connected applications
+* Submit KVKK-compliant data deletion requests
+* Manage digital footprint securely
+
+🔐 **Privacy First:** No email content or passwords are stored or accessed.
+
+**Stack:** Python • Flask • Google API • HTML • CSS • Security-first architecture
 
 ---
 
-## 🌿 Dijital Arınma
+## 🧠 Alzheimer Cognitive Training Platform
 
-A digital wellbeing platform designed to help users reduce screen addiction by monitoring digital habits and encouraging healthier technology usage.
+A web-based cognitive training system designed to support Alzheimer’s patients.
+
+**Features:**
+
+* Daily brain training games
+* Memory and logic exercises
+* Scoring and progress tracking system
+* Doctor & caregiver monitoring dashboard
+* Daily reminders and engagement system
+
+**Stack:** Python • Flask • HTML • CSS • JavaScript
 
 ---
 
 ## 🏴‍☠️ Pirate Adventure Game
 
-A 3D Unity adventure game featuring island exploration, puzzle solving, treasure hunting, and story-driven gameplay.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-* C#
-* Python
-* JavaScript
-* HTML5
-* CSS3
-* SQL
-* Dart
-
-### Frameworks & Technologies
-
-* ASP.NET Core MVC
-* .NET Core
-* Flutter
-* Entity Framework Core
-* Flask
-* Git & GitHub
-* Docker
-* Linux
-* SQL Server
-* MySQL
-* Unity
+A Unity-based 3D adventure game featuring exploration, puzzles, and mission-based gameplay.
 
 ---
 
 # 🏆 Achievements
 
-🏅 TÜBİTAK 2209-A Accepted Research Project
+🏅 TÜBİTAK 2209-A Research Project Accepted
 
-🎓 Bachelor's Degree in Software Engineering
+🎓 Software Engineering Graduate
 
-💼 Industry experience through software engineering internship
+🔬 Developed AI, Embedded Systems, and Web Platforms
 
-📚 Continuously learning Data Engineering and Cloud Technologies
+⚙ Experience in full-stack, backend, and hardware-integrated systems
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* Become a Data Engineer
+* Build scalable distributed systems
+* Master cloud infrastructure (Azure/AWS)
+* Work on large-scale data pipelines
+* Contribute to open-source projects
+
+---
+
+# 🌱 Core Interests
 
 * Data Engineering
-* Apache Spark
-* Docker
-* Cloud Technologies
-* ETL Pipelines
-* SQL Optimization
-* Advanced Python
+* Distributed Systems
+* Backend Architecture
+* Artificial Intelligence
+* Embedded Systems
+* Computer Vision
 
 ---
 
-# 🎯 Career Goals
-
-✔ Become a Data Engineer
-
-✔ Build scalable data pipelines
-
-✔ Master Cloud Platforms
-
-✔ Contribute to Open Source
-
-✔ Develop enterprise-level software solutions
-
----
-
-# 📊 GitHub Analytics
-
-(Add GitHub Stats, Streak Stats, Activity Graph and Contribution Snake here.)
-
----
-
-# 📫 Connect With Me
+# 📫 Contact
 
 📧 Email: [yourmail@example.com](mailto:yourmail@example.com)
-
-💼 LinkedIn: linkedin.com/in/yourprofile
-
-🌐 Portfolio: Coming Soon
+💼 LinkedIn: yourlinkedin
+🌐 Portfolio: coming soon
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Code • Learn • Build • Improve • Repeat."*
+*"Engineering systems that connect data, intelligence and reality."*
 
 </div>
