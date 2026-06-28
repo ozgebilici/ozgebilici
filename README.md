@@ -74,38 +74,63 @@
 
 ---
 
-## 🌍 Global Hunger EWS
+##🌍 Global Hunger Early Warning System (TÜBİTAK 2209-A)
 
-AI-powered early warning system that predicts global hunger risk up to 6 months in advance using multi-source global data (climate, economy, agriculture, socio-political).
+AI-powered hybrid early warning system designed to predict global hunger risk up to 6 months in advance by integrating climate, agriculture, economic, and socio-political data into a unified model.
 
 🏆 TÜBİTAK 2209-A Research Project
 🎓 Software Engineering Graduation Project (2026)
 
-Highlights:
+🎯 Problem
 
-Hybrid AI model (LSTM + TCN)
-190+ engineered features
-SHAP explainability + uncertainty estimation
-Multi-domain global data fusion
+Most existing early warning systems:
 
-Tech: Python • TensorFlow • PyTorch • XGBoost • SHAP • Airflow • PostgreSQL • Docker
+Rely mainly on climate data
+Ignore economic and political factors
+Lack uncertainty estimation
+Provide limited interpretability for decision-making
+💡 Solution
 
-⚔️ BOZGUN
+This system introduces a hybrid AI approach that:
 
-Real-time embedded computer vision system that tracks moving objects and controls a servo-driven laser for automated targeting simulation.
+🌐 Combines multi-domain datasets (climate, economy, agriculture, politics)
+🤖 Uses LSTM + TCN hybrid deep learning architecture
+📊 Applies 190+ engineered time-series features
+📉 Generates probabilistic predictions using Monte Carlo Dropout
+🧠 Provides explainability via SHAP analysis
+🏗 System Architecture
 
-🏆 Aksaray University R&D Fair – Presented Project
+The system follows a modular data pipeline:
 
-Highlights:
+Data Collection → Feature Engineering → Model Training → Uncertainty & Explainability → Visualization Dashboard
 
-Real-time object detection
-Servo motor control system
-Computer vision pipeline
-Arduino + Python integration
+Orchestrated with Apache Airflow
+Model served via API layer
+Results visualized using interactive dashboard
+📊 Results
+📈 F1 Score: 0.90 (Ensemble model)
+📉 Expected Calibration Error (ECE): 0.042
+🔼 +24% performance improvement over baseline models
+🌍 Reliable 6-month ahead forecasting capability
+🛠 Tech Stack
 
-Tech: Python • OpenCV • Arduino
----
+Python • TensorFlow • PyTorch • XGBoost • SHAP • Airflow • PostgreSQL • Docker • Streamlit
 
+⚔️ BOZGUN — Real-Time Autonomous Tracking System
+
+An embedded computer vision system that detects objects in real time and controls a servo-driven laser mechanism for automated tracking and targeting simulation.
+
+🏆 Selected & Presented at Aksaray University R&D Project Fair
+
+🔧 Key Features
+🎯 Real-time object detection using computer vision
+⚙️ Servo motor control system
+🔴 Automated laser tracking mechanism
+🧠 Vision-based decision loop
+🔌 Arduino + Python hardware integration
+🛠 Tech Stack
+
+Python • OpenCV • Arduino • Computer Vision
 ## 🌿 Digital Purification Platform (Dijital Arınma)
 
 A privacy-focused web platform that analyzes users' email metadata (subject & title fields only) via Google account integration.
