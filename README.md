@@ -162,15 +162,6 @@ Python • Flask • HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ozgebilici&theme=tokyonight&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgebilici&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 * Become a Data Engineer
